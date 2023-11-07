@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
+using RestaurantBookingSystemOfficial.Models;
 
 namespace RestaurantBookingSystem.Models
 {
