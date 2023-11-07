@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-RestaurantBookingSystemOfficial-4fd871d5-6422-4b2e-b920-6bdda6fee481</UserSecretsId>
   </PropertyGroup>
