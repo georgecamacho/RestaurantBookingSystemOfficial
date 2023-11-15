@@ -11,6 +11,5 @@ namespace RestaurantBookingSystemOfficial.Models
         public int PaymentID { get; set; }
         public double TotalAmount { get; set; }
         public Status Status { get; set; }
-        public ICollection<Booking> Bookings { get; set; }
     }
 }
